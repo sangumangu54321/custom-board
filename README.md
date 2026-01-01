@@ -5,11 +5,13 @@ IT IS A DEVLOPMENT BOARD USING ESP32=S3R8 WITH 16MB FLASH
 <img width="883" height="735" alt="Screenshot 2026-01-02 022112" src="https://github.com/user-attachments/assets/e5f67d7e-d18c-4598-9ce6-5e631f424c65" />
 
 ## feature
-2.4 GHz Wi-Fi (802.11b/g/n) and Bluetooth® 5 module
-Built around ESP32-S3 series of SoCs, Xtensa® dual-core 32-bit LX7 microprocessor
-Flash up to 16 MB, PSRAM up to 16 MB
-Up to 36 GPIOs, rich set of peripherals
-On-board PCB antenna or external antenna connector
+• ESP32-S3 series of SoCs embedded, Xtensa®
+dual-core 32-bit LX7 microprocessor (with
+single precision FPU), up to 240 MHz
+• 384 KB ROM
+• 512 KB SRAM
+• 16 KB SRAM in RTC
+• Up to 16 MB PSRAM
 
 ## BOM
 | Item              | Cost  | Note               |
@@ -21,18 +23,18 @@ On-board PCB antenna or external antenna connector
 | Total             | 122.70 | USD                |
 
 
-### PCB 
+# PCB 
 This is 4 layer PCB
-# 1st layer 
+## 1st layer 
 <img width="423" height="602" alt="Screenshot 2026-01-01 201641" src="https://github.com/user-attachments/assets/68919056-bfde-4529-80e7-29e3e3068224" />
 
-# 2nd layer 
+## 2nd layer 
 <img width="413" height="576" alt="Screenshot 2026-01-01 201755" src="https://github.com/user-attachments/assets/1fe16a14-7db5-42b0-84f7-5846c47a5bf8" />
 
-# 3rd layer 
+## 3rd layer 
 <img width="488" height="651" alt="Screenshot 2026-01-01 201741" src="https://github.com/user-attachments/assets/ce553288-3019-4bcc-a847-f903163e3432" />
 
-# 4th layer
+## 4th layer
 <img width="377" height="590" alt="Screenshot 2026-01-01 201707" src="https://github.com/user-attachments/assets/b735056b-c8ed-41b6-aa0c-e9a2a42bec72" />
 
  
