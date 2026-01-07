@@ -14,13 +14,18 @@ single precision FPU), up to 240 MHz
 • Up to 16 MB PSRAM
 
 ## BOM
-| Item              | Cost  | Note               |
-| ----------------- | ----- | ------------------ |
-| PCB               | 14.18  | 4-Layers           |
-| PCBA              | 99.82 | Kinda Dense board  |
-| Shipping charges  | 14.08  |                    |
-| coupon Discount   | \-6   |                    |
-| Total             | 122.70 | USD                |
+| Item              | Cost  | Note                               | Suppier             |
+|-------------------|-------|------------------------------------|---------------------|
+| PCB               | 14.8  | 4-Layers                           | https://jlcpcb.com/ |
+| PCBA              | 99.82 | Kinda Dense board                  | https://jlcpcb.com/ |
+| Shipping from JLC | 14.08 | using the cheapest option avalable | https://jlcpcb.com/ |
+| coupon Discount   | -6    | SMT monthly coupon                 |                     |
+| Total             | 122.7 | USD                                |                     |
+
+
+# Schematic 
+<img width="1112" height="783" alt="Screenshot 2025-12-31 235009" src="https://github.com/user-attachments/assets/33dad000-3753-444d-8654-8a39fa602410" />
+
 
 
 # PCB 
